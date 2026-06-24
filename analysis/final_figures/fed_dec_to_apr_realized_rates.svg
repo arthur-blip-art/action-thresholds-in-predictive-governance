@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760">
+<rect x="0.00" y="0.00" width="1600.00" height="760.00" fill="white" stroke="none" />
+<text x="20.00" y="24.00" fill="#0b1f3a" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" text-anchor="start" dominant-baseline="alphabetic">Realized rate context</text>
+<text x="20.00" y="58.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="start" dominant-baseline="alphabetic">Official target range after each meeting and the accessible NY Fed EFFR rows</text>
+<line x1="120.00" y1="560.00" x2="1220.00" y2="560.00" stroke="#e6e6e6" stroke-width="1" />
+<line x1="120.00" y1="446.25" x2="1220.00" y2="446.25" stroke="#e6e6e6" stroke-width="1" />
+<line x1="120.00" y1="332.50" x2="1220.00" y2="332.50" stroke="#e6e6e6" stroke-width="1" />
+<line x1="120.00" y1="218.75" x2="1220.00" y2="218.75" stroke="#e6e6e6" stroke-width="1" />
+<line x1="120.00" y1="105.00" x2="1220.00" y2="105.00" stroke="#e6e6e6" stroke-width="1" />
+<line x1="120.00" y1="105.00" x2="120.00" y2="560.00" stroke="#2e2e2e" stroke-width="2" />
+<line x1="120.00" y1="560.00" x2="1220.00" y2="560.00" stroke="#2e2e2e" stroke-width="2" />
+<text x="108.00" y="503.13" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="end" dominant-baseline="alphabetic">3.50</text>
+<text x="108.00" y="389.38" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="end" dominant-baseline="alphabetic">3.60</text>
+<text x="108.00" y="275.62" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="end" dominant-baseline="alphabetic">3.70</text>
+<text x="108.00" y="161.88" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="end" dominant-baseline="alphabetic">3.80</text>
+<text x="120.00" y="572.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">2025-12-10</text>
+<text x="481.43" y="572.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">2026-01-25</text>
+<text x="850.71" y="572.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">2026-03-13</text>
+<text x="1220.00" y="572.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">2026-04-29</text>
+<rect x="120.00" y="218.75" width="385.00" height="284.38" fill="#dde2e9" stroke="#c7cdd6" stroke-width="1" />
+<line x1="120.00" y1="105.00" x2="120.00" y2="560.00" stroke="#7a7f87" stroke-width="1" />
+<text x="124.00" y="210.75" fill="#23324a" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="start" dominant-baseline="alphabetic">2025-12 target 3.50-3.75</text>
+<rect x="505.00" y="218.75" width="385.00" height="284.38" fill="#dde2e9" stroke="#c7cdd6" stroke-width="1" />
+<line x1="505.00" y1="105.00" x2="505.00" y2="560.00" stroke="#7a7f87" stroke-width="1" />
+<text x="509.00" y="210.75" fill="#23324a" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="start" dominant-baseline="alphabetic">2026-01 target 3.50-3.75</text>
+<rect x="890.00" y="218.75" width="330.00" height="284.38" fill="#dde2e9" stroke="#c7cdd6" stroke-width="1" />
+<line x1="890.00" y1="105.00" x2="890.00" y2="560.00" stroke="#7a7f87" stroke-width="1" />
+<text x="894.00" y="210.75" fill="#23324a" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="start" dominant-baseline="alphabetic">2026-03 target 3.50-3.75</text>
+<rect x="1220.00" y="218.75" width="0.00" height="284.38" fill="#dde2e9" stroke="#c7cdd6" stroke-width="1" />
+<line x1="1220.00" y1="105.00" x2="1220.00" y2="560.00" stroke="#7a7f87" stroke-width="1" />
+<text x="1224.00" y="210.75" fill="#23324a" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="start" dominant-baseline="alphabetic">2026-04 target 3.50-3.75</text>
+<line x1="622.86" y1="343.88" x2="615.00" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="615.00" y1="343.88" x2="607.14" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="607.14" y1="343.88" x2="599.29" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="599.29" y1="343.88" x2="575.71" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="575.71" y1="343.88" x2="567.86" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="567.86" y1="343.88" x2="560.00" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="560.00" y1="343.88" x2="552.14" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="552.14" y1="343.88" x2="544.29" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="544.29" y1="343.88" x2="520.71" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="520.71" y1="343.88" x2="512.86" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="512.86" y1="343.88" x2="505.00" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="505.00" y1="343.88" x2="497.14" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="497.14" y1="343.88" x2="489.29" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="489.29" y1="343.88" x2="465.71" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="465.71" y1="343.88" x2="457.86" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="457.86" y1="343.88" x2="450.00" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="450.00" y1="343.88" x2="442.14" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="442.14" y1="343.88" x2="410.71" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="410.71" y1="343.88" x2="402.86" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="402.86" y1="343.88" x2="395.00" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="395.00" y1="343.88" x2="387.14" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="387.14" y1="343.88" x2="379.29" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="379.29" y1="343.88" x2="355.71" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<line x1="355.71" y1="343.88" x2="347.86" y2="343.88" stroke="#0b1f3a" stroke-width="3" />
+<circle cx="622.86" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="615.00" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="607.14" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="599.29" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="575.71" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="567.86" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="560.00" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="552.14" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="544.29" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="520.71" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="512.86" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="505.00" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="497.14" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="489.29" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="465.71" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="457.86" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="450.00" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="442.14" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="410.71" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="402.86" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="395.00" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="387.14" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="379.29" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="355.71" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="347.86" cy="343.88" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<line x1="1260.00" y1="115.00" x2="1284.00" y2="115.00" stroke="#dde2e9" stroke-width="10" />
+<text x="1296.00" y="115.00" fill="#30343A" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">Target range after meeting</text>
+<line x1="1260.00" y1="143.00" x2="1284.00" y2="143.00" stroke="#0b1f3a" stroke-width="3" />
+<circle cx="1272.00" cy="143.00" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<text x="1296.00" y="143.00" fill="#30343A" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">EFFR</text>
+<text x="1260.00" y="177.00" fill="#4a4f57" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">Context only, not forecast data.</text>
+<text x="120.00" y="705.00" fill="#4a4f57" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">Realized-rate context from the NY Fed reference-rates page; it is not used as a probability benchmark.</text>
+</svg>

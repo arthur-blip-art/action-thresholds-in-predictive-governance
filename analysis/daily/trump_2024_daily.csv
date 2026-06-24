@@ -1,0 +1,2 @@
+date,research_case,market_question,outcome_name,token_id,first_probability,last_probability,mean_probability,min_probability,max_probability,number_of_observations,source_endpoint_type
+2024-11-06,trump_2024,Will Donald Trump win the 2024 US Presidential Election?,Donald Trump,21742633143463906290569050155826241533067272736897614950488156847949938836455,0.998,0.998,0.9960558577460396,0.981,0.999000000999,3637,trades_fallback

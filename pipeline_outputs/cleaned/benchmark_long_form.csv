@@ -1,0 +1,1 @@
+source_id,source_name,source_category,source_group,platform,series_kind,benchmark_type,event_id,event_name,category,observation_date,event_date,raw_value,probability_value,benchmark_value,unit,use_in_probability_analysis,data_status,is_real_data,source_endpoint,source_url,raw_file_path,provenance_file,provenance_row,notes

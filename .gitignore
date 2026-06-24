@@ -1,6 +1,10 @@
 .DS_Store
-pipeline_outputs/
-analysis/
+pipeline_outputs/.DS_Store
+pipeline_outputs/raw/
+pipeline_outputs/catalog/
+pipeline_outputs/daily/
+pipeline_outputs/snapshots/
+pipeline_outputs/validation/
 __pycache__/
 *.pyc
 *.pyo

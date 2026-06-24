@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="560" viewBox="0 0 1080 560">
+<rect x="0.00" y="0.00" width="1080.00" height="560.00" fill="white" stroke="none" />
+<text x="20.00" y="24.00" fill="#0B1F3A" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" text-anchor="start" dominant-baseline="alphabetic">Final probability assigned to the realized Fed outcome</text>
+<text x="20.00" y="58.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="start" dominant-baseline="alphabetic">Final pre-meeting probability</text>
+<line x1="100.00" y1="420.00" x2="920.00" y2="420.00" stroke="#e6e6e6" stroke-width="1" />
+<line x1="100.00" y1="340.00" x2="920.00" y2="340.00" stroke="#e6e6e6" stroke-width="1" />
+<line x1="100.00" y1="260.00" x2="920.00" y2="260.00" stroke="#e6e6e6" stroke-width="1" />
+<line x1="100.00" y1="180.00" x2="920.00" y2="180.00" stroke="#e6e6e6" stroke-width="1" />
+<line x1="100.00" y1="100.00" x2="920.00" y2="100.00" stroke="#e6e6e6" stroke-width="1" />
+<line x1="100.00" y1="100.00" x2="100.00" y2="420.00" stroke="#2e2e2e" stroke-width="2" />
+<line x1="100.00" y1="420.00" x2="920.00" y2="420.00" stroke="#2e2e2e" stroke-width="2" />
+<text x="88.00" y="420.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="end" dominant-baseline="alphabetic">0</text>
+<text x="88.00" y="340.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="end" dominant-baseline="alphabetic">0.25</text>
+<text x="88.00" y="260.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="end" dominant-baseline="alphabetic">0.5</text>
+<text x="88.00" y="180.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="end" dominant-baseline="alphabetic">0.75</text>
+<text x="88.00" y="100.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="end" dominant-baseline="alphabetic">1</text>
+<rect x="305.00" y="100.32" width="410.00" height="319.68" fill="#0B1F3A" stroke="#ffffff" stroke-width="1" />
+<text x="510.00" y="432.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">2026-01</text>
+<text x="510.00" y="92.32" fill="#111111" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">0.999</text>
+<line x1="100.00" y1="100.00" x2="920.00" y2="100.00" stroke="#e6e6e6" stroke-width="1" />
+<text x="900.00" y="100.00" fill="#0B1F3A" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="start" dominant-baseline="alphabetic">Realized meetings</text>
+<rect x="900.00" y="132.00" width="16.00" height="16.00" fill="#0B1F3A" stroke="#ffffff" stroke-width="1" />
+<text x="924.00" y="140.00" fill="#30343A" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">2026-01</text>
+<text x="100.00" y="456.00" fill="#4A4F57" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">Bars are shown only where a realized outcome and a usable pre-meeting probability series are both available.</text>
+</svg>

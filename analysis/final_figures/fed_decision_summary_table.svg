@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1430" height="412" viewBox="0 0 1430 412">
+<rect x="0.00" y="0.00" width="1430.00" height="412.00" fill="white" stroke="none" />
+<text x="40.00" y="24.00" fill="#0b1f3a" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" text-anchor="start" dominant-baseline="alphabetic">Fed decision summary</text>
+<rect x="40.00" y="74.00" width="1270.00" height="34.00" fill="#0b1f3a" stroke="#0b1f3a" stroke-width="1" />
+<text x="48.00" y="91.00" fill="white" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="central">Meeting</text>
+<text x="228.00" y="91.00" fill="white" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="central">Realized decision</text>
+<text x="488.00" y="91.00" fill="white" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="central">Final prob.</text>
+<text x="628.00" y="91.00" fill="white" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="central">Source type</text>
+<text x="798.00" y="91.00" fill="white" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="central">Caveat</text>
+<rect x="40.00" y="108.00" width="1270.00" height="52.00" fill="#f7f9fb" stroke="#d7dce2" stroke-width="1" />
+<text x="48.00" y="116.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">December 2025</text>
+<line x1="220.00" y1="108.00" x2="220.00" y2="160.00" stroke="#d7dce2" stroke-width="1" />
+<text x="228.00" y="116.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">Lowered the target range by</text>
+<text x="228.00" y="135.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">25 basis points.</text>
+<line x1="480.00" y1="108.00" x2="480.00" y2="160.00" stroke="#d7dce2" stroke-width="1" />
+<text x="488.00" y="116.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">99.9%</text>
+<line x1="620.00" y1="108.00" x2="620.00" y2="160.00" stroke="#d7dce2" stroke-width="1" />
+<text x="628.00" y="116.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">trades_fallback</text>
+<line x1="790.00" y1="108.00" x2="790.00" y2="160.00" stroke="#d7dce2" stroke-width="1" />
+<text x="798.00" y="116.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">trade-based fallback series; resolved meeting; usable for</text>
+<text x="798.00" y="135.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">snapshots and path figure</text>
+<line x1="1310.00" y1="108.00" x2="1310.00" y2="160.00" stroke="#d7dce2" stroke-width="1" />
+<rect x="40.00" y="160.00" width="1270.00" height="52.00" fill="#ffffff" stroke="#d7dce2" stroke-width="1" />
+<text x="48.00" y="168.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">January 2026</text>
+<line x1="220.00" y1="160.00" x2="220.00" y2="212.00" stroke="#d7dce2" stroke-width="1" />
+<text x="228.00" y="168.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">Maintained the target range.</text>
+<line x1="480.00" y1="160.00" x2="480.00" y2="212.00" stroke="#d7dce2" stroke-width="1" />
+<text x="488.00" y="168.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">99.9%</text>
+<line x1="620.00" y1="160.00" x2="620.00" y2="212.00" stroke="#d7dce2" stroke-width="1" />
+<text x="628.00" y="168.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">trades_fallback</text>
+<line x1="790.00" y1="160.00" x2="790.00" y2="212.00" stroke="#d7dce2" stroke-width="1" />
+<text x="798.00" y="168.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">trade-based fallback series; resolved meeting; usable for</text>
+<text x="798.00" y="187.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">snapshots and path figure</text>
+<line x1="1310.00" y1="160.00" x2="1310.00" y2="212.00" stroke="#d7dce2" stroke-width="1" />
+<rect x="40.00" y="212.00" width="1270.00" height="52.00" fill="#f7f9fb" stroke="#d7dce2" stroke-width="1" />
+<text x="48.00" y="220.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">March 2026</text>
+<line x1="220.00" y1="212.00" x2="220.00" y2="264.00" stroke="#d7dce2" stroke-width="1" />
+<text x="228.00" y="220.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">Maintained the target range.</text>
+<line x1="480.00" y1="212.00" x2="480.00" y2="264.00" stroke="#d7dce2" stroke-width="1" />
+<text x="488.00" y="220.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">99.9%</text>
+<line x1="620.00" y1="212.00" x2="620.00" y2="264.00" stroke="#d7dce2" stroke-width="1" />
+<text x="628.00" y="220.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">trades_fallback</text>
+<line x1="790.00" y1="212.00" x2="790.00" y2="264.00" stroke="#d7dce2" stroke-width="1" />
+<text x="798.00" y="220.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">trade-based fallback series; resolved meeting; usable for</text>
+<text x="798.00" y="239.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">snapshots and path figure</text>
+<line x1="1310.00" y1="212.00" x2="1310.00" y2="264.00" stroke="#d7dce2" stroke-width="1" />
+<rect x="40.00" y="264.00" width="1270.00" height="52.00" fill="#ffffff" stroke="#d7dce2" stroke-width="1" />
+<text x="48.00" y="272.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">April 2026</text>
+<line x1="220.00" y1="264.00" x2="220.00" y2="316.00" stroke="#d7dce2" stroke-width="1" />
+<text x="228.00" y="272.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">Maintained the target range.</text>
+<line x1="480.00" y1="264.00" x2="480.00" y2="316.00" stroke="#d7dce2" stroke-width="1" />
+<text x="488.00" y="272.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">99.9%</text>
+<line x1="620.00" y1="264.00" x2="620.00" y2="316.00" stroke="#d7dce2" stroke-width="1" />
+<text x="628.00" y="272.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">trades_fallback</text>
+<line x1="790.00" y1="264.00" x2="790.00" y2="316.00" stroke="#d7dce2" stroke-width="1" />
+<text x="798.00" y="272.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">trade-based fallback series; resolved meeting; usable for</text>
+<text x="798.00" y="291.00" fill="#222222" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">snapshots and path figure</text>
+<line x1="1310.00" y1="264.00" x2="1310.00" y2="316.00" stroke="#d7dce2" stroke-width="1" />
+<rect x="40.00" y="342.00" width="1350.00" height="54.00" rx="6" ry="6" fill="#fafafa" stroke="#d7dce2" stroke-width="1" />
+<text x="54.00" y="354.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="start" dominant-baseline="alphabetic">The final realized-outcome probability is the final available pre-meeting snapshot probability for the realized outcome.</text>
+</svg>

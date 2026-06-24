@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760">
+<rect x="0.00" y="0.00" width="1500.00" height="760.00" fill="white" stroke="none" />
+<text x="20.00" y="24.00" fill="#0b1f3a" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" text-anchor="start" dominant-baseline="alphabetic">Fed snapshot accuracy</text>
+<text x="20.00" y="58.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="start" dominant-baseline="alphabetic">Probability assigned to the realized outcome by snapshot horizon</text>
+<line x1="110.00" y1="560.00" x2="1150.00" y2="560.00" stroke="#e6e6e6" stroke-width="1" />
+<line x1="110.00" y1="446.25" x2="1150.00" y2="446.25" stroke="#e6e6e6" stroke-width="1" />
+<line x1="110.00" y1="332.50" x2="1150.00" y2="332.50" stroke="#e6e6e6" stroke-width="1" />
+<line x1="110.00" y1="218.75" x2="1150.00" y2="218.75" stroke="#e6e6e6" stroke-width="1" />
+<line x1="110.00" y1="105.00" x2="1150.00" y2="105.00" stroke="#e6e6e6" stroke-width="1" />
+<line x1="110.00" y1="105.00" x2="110.00" y2="560.00" stroke="#2e2e2e" stroke-width="2" />
+<line x1="110.00" y1="560.00" x2="1150.00" y2="560.00" stroke="#2e2e2e" stroke-width="2" />
+<text x="98.00" y="560.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="end" dominant-baseline="alphabetic">0</text>
+<text x="98.00" y="446.25" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="end" dominant-baseline="alphabetic">0.25</text>
+<text x="98.00" y="332.50" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="end" dominant-baseline="alphabetic">0.5</text>
+<text x="98.00" y="218.75" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="end" dominant-baseline="alphabetic">0.75</text>
+<text x="98.00" y="105.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="end" dominant-baseline="alphabetic">1</text>
+<text x="196.67" y="572.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">T-30</text>
+<text x="370.00" y="572.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">T-14</text>
+<text x="543.33" y="572.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">T-7</text>
+<text x="716.67" y="572.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">T-3</text>
+<text x="890.00" y="572.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">T-1</text>
+<text x="1063.33" y="572.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">final_available</text>
+<circle cx="1063.33" cy="105.45" r="4.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<text x="1063.33" y="93.45" fill="#444444" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">0.999</text>
+<line x1="1200.00" y1="114.00" x2="1224.00" y2="114.00" stroke="#0b1f3a" stroke-width="4" />
+<circle cx="1212.00" cy="114.00" r="4.00" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<text x="1234.00" y="114.00" fill="#30343A" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">December 2025</text>
+<circle cx="1063.33" cy="105.45" r="4.50" fill="#2f3e4e" stroke="white" stroke-width="1" />
+<text x="1063.33" y="93.45" fill="#444444" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">0.999</text>
+<line x1="1200.00" y1="142.00" x2="1224.00" y2="142.00" stroke="#2f3e4e" stroke-width="4" />
+<circle cx="1212.00" cy="142.00" r="4.00" fill="#2f3e4e" stroke="white" stroke-width="1" />
+<text x="1234.00" y="142.00" fill="#30343A" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">January 2026</text>
+<line x1="196.67" y1="105.45" x2="370.00" y2="105.45" stroke="#5c677d" stroke-width="3" />
+<line x1="370.00" y1="105.45" x2="543.33" y2="105.45" stroke="#5c677d" stroke-width="3" />
+<line x1="543.33" y1="105.45" x2="716.67" y2="105.45" stroke="#5c677d" stroke-width="3" />
+<line x1="716.67" y1="105.45" x2="890.00" y2="105.45" stroke="#5c677d" stroke-width="3" />
+<line x1="890.00" y1="105.45" x2="1063.33" y2="105.45" stroke="#5c677d" stroke-width="3" />
+<circle cx="196.67" cy="105.45" r="4.50" fill="#5c677d" stroke="white" stroke-width="1" />
+<text x="196.67" y="93.45" fill="#444444" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">0.999</text>
+<circle cx="370.00" cy="105.45" r="4.50" fill="#5c677d" stroke="white" stroke-width="1" />
+<text x="370.00" y="93.45" fill="#444444" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">0.999</text>
+<circle cx="543.33" cy="105.45" r="4.50" fill="#5c677d" stroke="white" stroke-width="1" />
+<text x="543.33" y="93.45" fill="#444444" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">0.999</text>
+<circle cx="716.67" cy="105.45" r="4.50" fill="#5c677d" stroke="white" stroke-width="1" />
+<text x="716.67" y="93.45" fill="#444444" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">0.999</text>
+<circle cx="890.00" cy="105.45" r="4.50" fill="#5c677d" stroke="white" stroke-width="1" />
+<text x="890.00" y="93.45" fill="#444444" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">0.999</text>
+<circle cx="1063.33" cy="105.45" r="4.50" fill="#5c677d" stroke="white" stroke-width="1" />
+<text x="1063.33" y="93.45" fill="#444444" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">0.999</text>
+<line x1="1200.00" y1="170.00" x2="1224.00" y2="170.00" stroke="#5c677d" stroke-width="4" />
+<circle cx="1212.00" cy="170.00" r="4.00" fill="#5c677d" stroke="white" stroke-width="1" />
+<text x="1234.00" y="170.00" fill="#30343A" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">March 2026</text>
+<line x1="716.67" y1="105.45" x2="890.00" y2="105.91" stroke="#7a7f87" stroke-width="3" />
+<line x1="890.00" y1="105.91" x2="1063.33" y2="105.45" stroke="#7a7f87" stroke-width="3" />
+<circle cx="716.67" cy="105.45" r="4.50" fill="#7a7f87" stroke="white" stroke-width="1" />
+<text x="716.67" y="93.45" fill="#444444" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">0.999</text>
+<circle cx="890.00" cy="105.91" r="4.50" fill="#7a7f87" stroke="white" stroke-width="1" />
+<text x="890.00" y="93.91" fill="#444444" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">0.998</text>
+<circle cx="1063.33" cy="105.45" r="4.50" fill="#7a7f87" stroke="white" stroke-width="1" />
+<text x="1063.33" y="93.45" fill="#444444" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="middle" dominant-baseline="alphabetic">0.999</text>
+<line x1="1200.00" y1="198.00" x2="1224.00" y2="198.00" stroke="#7a7f87" stroke-width="4" />
+<circle cx="1212.00" cy="198.00" r="4.00" fill="#7a7f87" stroke="white" stroke-width="1" />
+<text x="1234.00" y="198.00" fill="#30343A" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">April 2026</text>
+<text x="1200.00" y="235.00" fill="#4a4f57" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">Higher is better</text>
+<text x="110.00" y="705.00" fill="#4a4f57" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">Equivalent Brier score for the realized outcome is (1 - p)^2 and is near zero when p is near one.</text>
+<text x="110.00" y="685.00" fill="#4a4f57" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="start" dominant-baseline="alphabetic">Missing horizons are omitted rather than fabricated.</text>
+</svg>

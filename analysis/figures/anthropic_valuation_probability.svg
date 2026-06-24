@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="900" viewBox="0 0 1500 900">
+<rect x="0.00" y="0.00" width="1500.00" height="900.00" fill="white" stroke="none" />
+<text x="110.00" y="26.00" fill="#0b1f3a" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" text-anchor="start" dominant-baseline="alphabetic">Anthropic valuation: daily last probability</text>
+<text x="110.00" y="62.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" text-anchor="start" dominant-baseline="alphabetic">Probability</text>
+<text x="610.00" y="868.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" text-anchor="middle" dominant-baseline="alphabetic">Date (UTC)</text>
+<line x1="110.00" y1="675.00" x2="1110.00" y2="675.00" stroke="#e6e6e6" stroke-width="1" />
+<line x1="110.00" y1="530.00" x2="1110.00" y2="530.00" stroke="#e6e6e6" stroke-width="1" />
+<line x1="110.00" y1="385.00" x2="1110.00" y2="385.00" stroke="#e6e6e6" stroke-width="1" />
+<line x1="110.00" y1="240.00" x2="1110.00" y2="240.00" stroke="#e6e6e6" stroke-width="1" />
+<line x1="110.00" y1="95.00" x2="1110.00" y2="95.00" stroke="#e6e6e6" stroke-width="1" />
+<line x1="110.00" y1="95.00" x2="110.00" y2="675.00" stroke="#2e2e2e" stroke-width="2" />
+<line x1="110.00" y1="675.00" x2="1110.00" y2="675.00" stroke="#2e2e2e" stroke-width="2" />
+<text x="96.00" y="675.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" dominant-baseline="alphabetic">0</text>
+<text x="96.00" y="530.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" dominant-baseline="alphabetic">0.25</text>
+<text x="96.00" y="385.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" dominant-baseline="alphabetic">0.5</text>
+<text x="96.00" y="240.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" dominant-baseline="alphabetic">0.75</text>
+<text x="96.00" y="95.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="end" dominant-baseline="alphabetic">1</text>
+<text x="110.00" y="689.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="middle" dominant-baseline="alphabetic">2026-05-27</text>
+<text x="443.33" y="689.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="middle" dominant-baseline="alphabetic">2026-05-27</text>
+<text x="776.67" y="689.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="middle" dominant-baseline="alphabetic">2026-05-27</text>
+<text x="1110.00" y="689.00" fill="#666666" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" text-anchor="middle" dominant-baseline="alphabetic">2026-05-28</text>
+<line x1="110.00" y1="672.68" x2="1110.00" y2="672.10" stroke="#0b1f3a" stroke-width="3" />
+<circle cx="110.00" cy="672.68" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<circle cx="1110.00" cy="672.10" r="3.50" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<line x1="110.00" y1="648.90" x2="1110.00" y2="648.90" stroke="#25364a" stroke-width="3" />
+<circle cx="110.00" cy="648.90" r="3.50" fill="#25364a" stroke="white" stroke-width="1" />
+<circle cx="1110.00" cy="648.90" r="3.50" fill="#25364a" stroke="white" stroke-width="1" />
+<line x1="110.00" y1="637.30" x2="1110.00" y2="637.30" stroke="#3f4b5d" stroke-width="3" />
+<circle cx="110.00" cy="637.30" r="3.50" fill="#3f4b5d" stroke="white" stroke-width="1" />
+<circle cx="1110.00" cy="637.30" r="3.50" fill="#3f4b5d" stroke="white" stroke-width="1" />
+<line x1="110.00" y1="628.60" x2="1110.00" y2="628.60" stroke="#576170" stroke-width="3" />
+<circle cx="110.00" cy="628.60" r="3.50" fill="#576170" stroke="white" stroke-width="1" />
+<circle cx="1110.00" cy="628.60" r="3.50" fill="#576170" stroke="white" stroke-width="1" />
+<line x1="110.00" y1="108.05" x2="1110.00" y2="113.56" stroke="#6f7886" stroke-width="3" />
+<circle cx="110.00" cy="108.05" r="3.50" fill="#6f7886" stroke="white" stroke-width="1" />
+<circle cx="1110.00" cy="113.56" r="3.50" fill="#6f7886" stroke="white" stroke-width="1" />
+<line x1="110.00" y1="196.50" x2="1110.00" y2="208.10" stroke="#87909b" stroke-width="3" />
+<circle cx="110.00" cy="196.50" r="3.50" fill="#87909b" stroke="white" stroke-width="1" />
+<circle cx="1110.00" cy="208.10" r="3.50" fill="#87909b" stroke="white" stroke-width="1" />
+<line x1="110.00" y1="538.70" x2="1110.00" y2="544.50" stroke="#9ea6af" stroke-width="3" />
+<circle cx="110.00" cy="538.70" r="3.50" fill="#9ea6af" stroke="white" stroke-width="1" />
+<circle cx="1110.00" cy="544.50" r="3.50" fill="#9ea6af" stroke="white" stroke-width="1" />
+<line x1="110.00" y1="631.50" x2="1110.00" y2="631.50" stroke="#b6bcc4" stroke-width="3" />
+<circle cx="110.00" cy="631.50" r="3.50" fill="#b6bcc4" stroke="white" stroke-width="1" />
+<circle cx="1110.00" cy="631.50" r="3.50" fill="#b6bcc4" stroke="white" stroke-width="1" />
+<line x1="110.00" y1="666.01" x2="1110.00" y2="664.27" stroke="#ced3d8" stroke-width="3" />
+<circle cx="110.00" cy="666.01" r="3.50" fill="#ced3d8" stroke="white" stroke-width="1" />
+<circle cx="1110.00" cy="664.27" r="3.50" fill="#ced3d8" stroke="white" stroke-width="1" />
+<text x="1160.00" y="95.00" fill="#0b1f3a" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" text-anchor="start" dominant-baseline="alphabetic">Series</text>
+<line x1="1160.00" y1="145.00" x2="1190.00" y2="145.00" stroke="#0b1f3a" stroke-width="4" />
+<circle cx="1175.00" cy="145.00" r="4.00" fill="#0b1f3a" stroke="white" stroke-width="1" />
+<text x="1202.00" y="145.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="start" dominant-baseline="alphabetic">LOW 750B</text>
+<line x1="1160.00" y1="175.00" x2="1190.00" y2="175.00" stroke="#25364a" stroke-width="4" />
+<circle cx="1175.00" cy="175.00" r="4.00" fill="#25364a" stroke="white" stroke-width="1" />
+<text x="1202.00" y="175.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="start" dominant-baseline="alphabetic">LOW 800B</text>
+<line x1="1160.00" y1="205.00" x2="1190.00" y2="205.00" stroke="#3f4b5d" stroke-width="4" />
+<circle cx="1175.00" cy="205.00" r="4.00" fill="#3f4b5d" stroke="white" stroke-width="1" />
+<text x="1202.00" y="205.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="start" dominant-baseline="alphabetic">LOW 850B</text>
+<line x1="1160.00" y1="235.00" x2="1190.00" y2="235.00" stroke="#576170" stroke-width="4" />
+<circle cx="1175.00" cy="235.00" r="4.00" fill="#576170" stroke="white" stroke-width="1" />
+<text x="1202.00" y="235.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="start" dominant-baseline="alphabetic">LOW 875B</text>
+<line x1="1160.00" y1="265.00" x2="1190.00" y2="265.00" stroke="#6f7886" stroke-width="4" />
+<circle cx="1175.00" cy="265.00" r="4.00" fill="#6f7886" stroke="white" stroke-width="1" />
+<text x="1202.00" y="265.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="start" dominant-baseline="alphabetic">HIGH 1.0T</text>
+<line x1="1160.00" y1="295.00" x2="1190.00" y2="295.00" stroke="#87909b" stroke-width="4" />
+<circle cx="1175.00" cy="295.00" r="4.00" fill="#87909b" stroke="white" stroke-width="1" />
+<text x="1202.00" y="295.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="start" dominant-baseline="alphabetic">HIGH 1.1T</text>
+<line x1="1160.00" y1="325.00" x2="1190.00" y2="325.00" stroke="#9ea6af" stroke-width="4" />
+<circle cx="1175.00" cy="325.00" r="4.00" fill="#9ea6af" stroke="white" stroke-width="1" />
+<text x="1202.00" y="325.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="start" dominant-baseline="alphabetic">HIGH 1.25T</text>
+<line x1="1160.00" y1="355.00" x2="1190.00" y2="355.00" stroke="#b6bcc4" stroke-width="4" />
+<circle cx="1175.00" cy="355.00" r="4.00" fill="#b6bcc4" stroke="white" stroke-width="1" />
+<text x="1202.00" y="355.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="start" dominant-baseline="alphabetic">HIGH 1.5T</text>
+<line x1="1160.00" y1="385.00" x2="1190.00" y2="385.00" stroke="#ced3d8" stroke-width="4" />
+<circle cx="1175.00" cy="385.00" r="4.00" fill="#ced3d8" stroke="white" stroke-width="1" />
+<text x="1202.00" y="385.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="start" dominant-baseline="alphabetic">HIGH 1.75T</text>
+<rect x="110.00" y="705.00" width="1000.00" height="155.00" rx="8" ry="8" fill="white" stroke="#cccccc" stroke-width="1" />
+<text x="124.00" y="717.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="start" dominant-baseline="alphabetic">Prices-history series; ongoing market; 925B, 950B, and 975B thresholds missing history and documented</text>
+<text x="124.00" y="739.00" fill="#333333" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="start" dominant-baseline="alphabetic">separately.</text>
+</svg>

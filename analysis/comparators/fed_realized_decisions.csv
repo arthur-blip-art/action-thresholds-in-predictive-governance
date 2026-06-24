@@ -1,0 +1,3 @@
+meeting_date,meeting_month,official_decision,realized_outcome_label,target_range_before,target_range_after,decision_size_bps,source_name,source_url,notes
+2025-12-10,2025-12,Lowered the target range by 25 basis points.,25_bps_cut,3.75-4.00,3.50-3.75,25,Federal Reserve,https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a1.htm,Official FOMC statement after the December 2025 meeting.
+2026-01-28,2026-01,Maintained the target range.,no_change,3.50-3.75,3.50-3.75,0,Federal Reserve,https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a1.htm,Official FOMC statement after the January 2026 meeting.

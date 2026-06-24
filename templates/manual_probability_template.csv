@@ -1,0 +1,2 @@
+source_id,source_name,source_group,series_kind,event_id,event_name,category,observation_date,event_date,raw_value,probability_value,benchmark_value,unit,use_in_probability_analysis,data_status,is_real_data,provenance_file,provenance_row,notes
+example_probability_source,Example Probability Source,prediction_market,probability,example_event,Example event,example,2026-05-28,2026-05-28,0.50,0.50,,probability,TRUE,manual_annotation,FALSE,templates/manual_probability_template.csv,1,Template example row; exclude unless marked as real data.

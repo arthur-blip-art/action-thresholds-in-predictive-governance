@@ -1,0 +1,7 @@
+.DS_Store
+pipeline_outputs/
+analysis/
+__pycache__/
+*.pyc
+*.pyo
+.env

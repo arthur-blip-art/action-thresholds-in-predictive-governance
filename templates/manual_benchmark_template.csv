@@ -1,0 +1,2 @@
+source_id,source_name,source_group,series_kind,event_id,event_name,category,observation_date,event_date,raw_value,probability_value,benchmark_value,unit,use_in_probability_analysis,data_status,is_real_data,provenance_file,provenance_row,notes
+example_benchmark_source,Example Benchmark Source,benchmark,benchmark,example_benchmark_event,Example benchmark event,benchmark,2026-05-28,2026-05-28,42,,42,index,FALSE,manual_annotation,FALSE,templates/manual_benchmark_template.csv,1,Template example row; exclude unless marked as real data.
